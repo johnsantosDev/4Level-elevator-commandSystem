@@ -1,3 +1,6 @@
+//By John SANTOS
+//https://johnsantos.groupesupra.com
+
 
 int i = 1; // the value represents where elevator stay ( fisrt time elevator start in the first floor
 int btn4 = 8; // represents the 4 th floor
